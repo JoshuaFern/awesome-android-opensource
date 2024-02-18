@@ -274,3 +274,5 @@ Multiple wallpaper sources, automatic changer, and blur/contrast settings.
 ## Authors
 
 - [@JoshuaFern](https://www.github.com/JoshuaFern)
+- [@McDread](https://www.github.com/McDread)
+
