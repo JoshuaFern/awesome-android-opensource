@@ -25,6 +25,7 @@ A curated list of awesome open source Android applications.
   - [Recorder](#recorder)
   - [SMS](#sms)
   - [System Utilities](#system-utilities)
+  - [Tools](#tools)
   - [Translator](#translator)
   - [Wallpaper](#wallpaper)
 - [Authors](#authors)
@@ -125,9 +126,17 @@ VPN based firewall. Rootless, blocks system applications.
 
 ### Games
 
+<img src="https://f-droid.org/repo/com.github.thewierdnut.endless_mobile/en-US/icon_leuASCWfUlmhnrKpAymRxL03l2xSiqBPAVqN6w8anuE=.png" alt="Icon" width="20" height="20"/> **Endless Sky** - [com.github.thewierdnut.endless_mobile](https://f-droid.org/en/packages/com.github.thewierdnut.endless_mobile/) (~68 MiB)
+
+Android port of endless-sky space trading game.
+
 <img src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png" alt="Icon" width="20" height="20"/> **Minetest** - [net.minetest.minetest](https://f-droid.org/en/packages/net.minetest.minetest/) (~34 MiB)
 
 Minecraft Clone with modding support, try the MineClone2 mod.
+
+<img src="https://f-droid.org/repo/io.anuke.mindustry/en-US/icon_Eno3XvqCZUcHRm3eMjiUleAxgzLopPe6-hkI7BHx1lU=.png" alt="Icon" width="20" height="20"/> **Mindustry** - [io.anuke.mindustry](https://f-droid.org/en/packages/io.anuke.mindustry/) (~61 MiB)
+
+A factory-based sandbox tower defense game
 
 <img src="https://f-droid.org/repo/fluddokt.opsu.android/en-US/icon_N1t6NfKuqVF-ge2UOIHp5KrdCyAx9IUgZjz49xfPOaA=.png" alt="Icon" width="20" height="20"/> **opsu!** - [fluddokt.opsu.android](https://f-droid.org/en/packages/fluddokt.opsu.android/) (~23 MiB)
 
@@ -243,6 +252,12 @@ Termux combines powerful terminal emulation with an extensive Linux package coll
 <img src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png" alt="Icon" width="20" height="20"/> **UnicodePad** - [jp.ddo.hotmist.unicodepad](https://f-droid.org/en/packages/jp.ddo.hotmist.unicodepad/) (~2.4 MiB) 🌚
 
 Simple utility to pick special characters.
+
+### Tools
+
+<img src="https://f-droid.org/repo/de.moekadu.tuner/en-US/icon_fcLb2rbXyvdto7zAWPUf-4lpIU0GHPhgYs-kp6ICxE8=.png" alt="Icon" width="20" height="20"/> **Tuner** - [de.moekadu.tuner](https://f-droid.org/en/packages/de.moekadu.tuner/) (~4.9 MiB) 🌟🌚
+
+App for tuning musical instruments.
 
 ### Translator
 
